@@ -7,12 +7,14 @@ Natuurlijk gaat dat werken, de vraag is meer hoeveel moeite het gaat kosten om h
 en in te richten.
 
 Werkwijze:
+
 * svn of git repository
 * machine met vereiste tools voor jekyll (we hebben geen github-pages hosting)
 * jekyll generatie vanuit jenkins CI job
 * publicatie van `_site` naar een webserver
 
 Voordelen:
+
 * documentatie is netjes geversioneerd
 * publicatie kan gecontroleerd als onderdeel van een release worden uitgevoerd
 * moderne look-and-feel
